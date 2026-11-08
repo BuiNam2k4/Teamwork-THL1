@@ -17,10 +17,10 @@ Mini web app giới thiệu nhóm thực hành DevOps/Fullstack — đóng gói 
 | Vai trò | Phụ trách | Thành viên |
 |---|---|---|
 | PM | Tạo repo, phân công việc, quản lý tiến độ, thống nhất quy ước branch, review PR, merge code, kiểm tra đầu ra cuối cùng, báo cáo nhóm | BuiNam2k4 |
-| Frontend (FE) | `index.html`, `style.css`, JS fetch API, hiển thị tên nhóm / danh sách thành viên / trạng thái hệ thống | Anh Tú |
-| Backend (BE) | Express app, API `/api/info`, `/api/members`, `/health`, chạy ở port 3000 | An Khang |
-| DevOps (Docker/Deploy) | `Dockerfile`, `docker-compose.yml`, build & chạy app trên server, hỗ trợ kiểm tra `docker compose ps/logs`, `curl` | Hiếu Lê |
-| CI/CD | Workflow GitHub Actions, bước build (và deploy qua SSH nếu kịp), hỗ trợ SSH key & Secrets, script deploy | Minh Quốc |
+| Frontend (FE) | `index.html`, `style.css`, JS fetch API, hiển thị tên nhóm / danh sách thành viên / trạng thái hệ thống | Hoang Anh |
+| Backend (BE) | Express app, API `/api/info`, `/api/members`, `/health`, chạy ở port 3000 | Loi |
+| DevOps (Docker/Deploy) | `Dockerfile`, `docker-compose.yml`, build & chạy app trên server, hỗ trợ kiểm tra `docker compose ps/logs`, `curl` | Tuan |
+| CI/CD | Workflow GitHub Actions, bước build (và deploy qua SSH nếu kịp), hỗ trợ SSH key & Secrets, script deploy | Minh |
 
 ## 3. Sản phẩm cần hoàn thành
 
